@@ -1,0 +1,1 @@
+java -jar -DHTTP_USERNAME=cristianofirmino@gmail.com relevantTweetService-1.0.0.jar
