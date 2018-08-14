@@ -25,6 +25,7 @@
 
 ###Target###
 /target/classes/
+/target/docker/
 /target/maven-archiver/
 /target/maven-status/
 /target/test-classes/
