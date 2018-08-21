@@ -17,8 +17,6 @@ public class RTSController {
 	@Autowired
 	private RTSService service;
 
-	/* O sistema deve expor os recursos **em formato JSON */
-	
 	@RequestMapping(path = "most_relevants", method = RequestMethod.GET, produces = "application/json")
 	public ResponseEntity<Object> getMostRevelants() {
 		
